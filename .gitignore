@@ -1,0 +1,6 @@
+# secrets
+.env
+
+# virtual env
+/tg_venv
+
